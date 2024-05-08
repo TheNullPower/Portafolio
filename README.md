@@ -2,7 +2,7 @@
 
 Contacto:
 - WhatsApp: 9982449536
-- Corre: oscaritoariel_23of@hotmail.com
+- Correo: oscaritoariel_23of@hotmail.com
 - Linkedin: www.linkedin.com/in/oscar-ariel-ortega-franco-5826571b4
 
 Idiomas:
