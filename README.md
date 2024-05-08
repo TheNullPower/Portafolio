@@ -23,10 +23,10 @@ Lenguajes computacionales:
 - Centro Universitario Anglo Mexicano
 
 # Proyectos:
-- ArcaContinental - AC Student Experience con Arca Continental (Febrero-Abril 2023)
-- FRISA - ConectAyuda (Agosto-Octubre 2023)
-- Elettric 80 - Simulación de almacenaje con robots ants (Octubre-Diciembre 2023)
-- Wizeline - Sara IA (Febrero-Junio 2024)
+- ArcaContinental - AC Student Experience con Arca Continental (Febrero-Abril 2023): desarrolle parte del frontend del portal web y desarrolle la documentación del proyecto.
+- FRISA - ConectAyuda (Agosto-Octubre 2023): desarrolle el frontend completo de la aplicación mobil y tambien realize la documentación del proyecto.
+- Elettric 80 - Simulación de almacenaje con robots ants (Octubre-Diciembre 2023): mayormente desarrolle la documentación del proyecto y participe en algunos aspectos del fronted y modelado 3D.
+- Wizeline - Sara IA (Febrero-Junio 2024): desarrollo del frontend de la aplicación web junto con un compañero y desarrollo de la documentación de los sprints.
 
 # Experiencia:
 - On Campus Intern - Borregos Gaming (Agosto 2021 - )
